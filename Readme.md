@@ -5,15 +5,18 @@
 Image Source: Pexels.com
 
 
-Business Understanding:
+### Business Understanding:
+
 In this increasingly digital age, computer networks play a very important role in the daily operations of organisations. They not only enable fast and efficient communication, but also support a wide range of critical applications, from financial transactions to sensitive data storage. However, along with the development of technology, cybersecurity threats are also increasing. Sophisticated and hard-to-detect cyberattacks are becoming a serious problem faced by many organisations. These attacks can not only result in huge financial losses, but also damage an organisation's reputation, lower customer trust, and disrupt business operations.
 
-Faced with this problem, a sophisticated and reliable network anomaly detection system is needed to identify suspicious activities and potentially harmful attacks. The objective of this project is to develop a detection system that uses Machine Learning techniques such as Isolation Forest or DBScan. These techniques were chosen for their ability to effectively detect anomalies even on complex and large datasets. By implementing this system, it is hoped that organisations can improve their network security, detect attacks early, and take the necessary precautions to avoid further losses.
+Faced with this problem, a sophisticated and reliable network anomaly detection system is needed to identify suspicious activities and potentially harmful attacks. The objective of this project is to develop a network anomaly detection system that uses Machine Learning techniques such as Isolation Forest or DBScan. These techniques were chosen for their ability to effectively detect anomalies even on complex and large datasets. By implementing this system, it is hoped that organisations can improve their network security, detect attacks early, and take the necessary precautions to avoid further losses.
 
-Goal:
+### Goal:
+
 As the number of cyber-attacks becomes increasingly sophisticated and difficult to detect, which can result in significant financial and reputational losses for organisations. The goal of this project is to develop an effective network anomaly detection system to identify suspicious activities and attacks on networks using Machine Learning techniques, such as Isolation Forest or DBScan, in order to improve security and prevent further potential attacks.
 
-Data Understanding:
+### Data Understanding:
+
 The dataset used in this project is a dataset that simulates different types of attacks in a military network environment. This dataset creates an environment to collect raw TCP/IP data from the network by simulating a US Air Force LAN. This LAN is simulated like a real environment and flooded with various attacks.
 
 A connection is a series of TCP packets starting and ending at a certain time duration, where data flows to and from the source IP address to the target IP address under a well-defined protocol. Each connection is labelled as normal or attack with one specific attack type. Each connection record consists of about 100 bytes.
