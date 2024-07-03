@@ -3,6 +3,8 @@
 
 ![image](https://github.com/roniantoniius/Enhancing-Network-Security-through-Anomaly-Detection/assets/121453378/12860d3f-9310-4fcd-bba9-1cf5a114428f)
 Image Source: Pexels.com
+
+
 Business Understanding:
 In this increasingly digital age, computer networks play a very important role in the daily operations of organisations. They not only enable fast and efficient communication, but also support a wide range of critical applications, from financial transactions to sensitive data storage. However, along with the development of technology, cybersecurity threats are also increasing. Sophisticated and hard-to-detect cyberattacks are becoming a serious problem faced by many organisations. These attacks can not only result in huge financial losses, but also damage an organisation's reputation, lower customer trust, and disrupt business operations.
 
@@ -107,6 +109,7 @@ For each TCP/IP connection, 41 quantitative and qualitative features of normal a
 ### Evaluation
 - Model Performance Evaluation
 - Anomaly Detection Visualization Evaluation
+  
 ![newplot](https://github.com/roniantoniius/Enhancing-Network-Security-through-Anomaly-Detection/assets/121453378/d1bd28e1-2c9b-4bc6-a655-c3e584012c8c)
 
 ![newplot_(1)](https://github.com/roniantoniius/Enhancing-Network-Security-through-Anomaly-Detection/assets/121453378/d37ee6b3-39a8-4fb4-b123-cbdf3782babe)
